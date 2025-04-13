@@ -10,3 +10,5 @@ This paper investigates how populations of neurons encode multiple and conflicti
 3. [A Tutorial on Principal Component Analysis](https://www.cs.cmu.edu/~elaw/papers/pca.pdf) - Jonathon Shlens
 
 This paper is a literal tutorial on PCA it is full of mathematical explanation and is quite intuitive in terms of explaining the mathematical basis behind PCA. 
+
+4. [The Geometry of Cortical Representations of Touch in Rodents](https://www.nature.com/articles/s41593-022-01237-9) - Ramon Nogueira and Stefano Fusi
